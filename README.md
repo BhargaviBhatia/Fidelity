@@ -1,2 +1,0 @@
-# Fidelity
-Fidelity exercise
